@@ -1,0 +1,11 @@
+.container-fluid{
+    background-color: aqua;
+}
+.container{
+    background-image:url('images/heaven-gd3310d08a_1280.png');
+    height: 610px;
+    width: auto;
+}
+#mywind{
+    background-color: black;
+}
